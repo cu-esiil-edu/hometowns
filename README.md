@@ -1,9 +1,9 @@
-# Hometowns
+# Home Towns
 A repository for practicing submitting Pull Requests. Please add information about your home town to a .csv file. We will then make a map of everyone's home towns!
 
 ## Step 1: Locate the repository you will add your home town info to.
 
-Make sure to navigate to the `Code` tab. You should see a list of files in the repository.
+You're already here! Make sure to navigate to the `Code` tab. You should see a list of files in the repository.
 
 ## Step 2: Add your changes to the hometowns.csv file
 
